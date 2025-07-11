@@ -19,3 +19,28 @@
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/amd-RX%207700XT-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
 </p>
+
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+- 📖 **Web Development**\
+📆 2024 - present\
+📍 **Bit Academy - Noorderpoort** - Groningen, Nederland
+
+## Experience
+
+- ✨ **Fresh produce employee**\
+📆 2024 - present\
+📍 **Albert Heijn** - Drenthe, Nederland
+
+- 🐦 **Co-Founder**\
+📆 2025 - present\
+📍 **Crowware** - No Specified Location
+
+<img align="right" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img align="right" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+
+</details>
