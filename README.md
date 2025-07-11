@@ -1,3 +1,3 @@
 <h1 align='center'>
-  Hi there 👋 I'm Alexandre 👨‍💻
+  Hi there, I'm Julian
 </h1>
