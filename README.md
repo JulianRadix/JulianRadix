@@ -21,6 +21,36 @@
 </p>
 
 <details>
+  <summary>👱 About Me</summary>
+  <p>
+    Hey, I am Julian! Welcome to my github. 
+  </p>
+
+## Hobbies
+
+- 📖 Programming
+- 📷 Photography
+- 🎮 Gaming
+
+## Soft / Hard Skills
+
+### Hard Skills
+
+- PHP
+- MySQL
+- HTML/CSS
+- JavaScript
+- C, C#, C++
+
+### Soft Skills
+
+- Project Management
+- Problem Solving
+- Leadership
+
+</details>
+
+<details>
   <summary>📃 Resume</summary>
 
 
