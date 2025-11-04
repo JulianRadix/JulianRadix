@@ -23,7 +23,9 @@
 <details>
   <summary>👱 About Me</summary>
   <p>
-    Hey, I am Julian! Welcome to my github. 
+    Hey, I am Julian! Welcome to my github.
+Backend developer skilled in server-side programming, databases and building efficient, scaleable applications.
+Focused on solutions and teamwork
   </p>
 
 ## Hobbies
